@@ -39,26 +39,50 @@ Additionally, the system provides **multilingual disease and remedy recommendati
 The **PlantVillage dataset** is used for training and evaluation.
 
 > The dataset is not included in this repository because it contains a large number of image files.
-▶️ How to Run
-1. Clone the Repository
+
+## ▶️ How to Run
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/Malini-1326/Plant-Leaf-Disease-Prediction.git
 cd Plant-Leaf-Disease-Prediction
-2. Create a Virtual Environment
+```
+
+### 2. Create a Virtual Environment
+
+```bash
 python -m venv venv
-3. Activate the Virtual Environment
+```
 
-Windows:
+### 3. Activate the Virtual Environment
 
+**Windows:**
+
+```bash
 venv\Scripts\activate
-4. Install Dependencies
+```
+
+### 4. Install Dependencies
+
+```bash
 pip install -r requirements.txt
-5. Run the Application
+```
+
+### 5. Run the Application
+
+```bash
 python app.py
-6. Open in Browser
+```
+
+### 6. Open in Browser
 
 Open the application in your browser:
 
+```text
 http://127.0.0.1:5000/
+```
+
 
 ## 🎯 Objective
 
