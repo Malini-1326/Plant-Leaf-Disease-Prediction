@@ -52,6 +52,20 @@ The main objective of this project is to develop an accurate and explainable pla
 * More regional languages
 * Cloud deployment
 
+## 🖼️ Project Screenshots
+
+### 1. Project Interface
+![Project Interface](picture1.png)
+
+### 2. Disease Prediction
+![Disease Prediction](picture2.png)
+
+### 3. Prediction Result
+![Prediction Result](picture3.png)
+
+### 4. Multilingual / Remedy Output
+![Multilingual Output](picture4.png)
+
 ## 👩‍💻 Author
 
 **Malini S**
